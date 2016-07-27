@@ -100,7 +100,7 @@
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "Error: contraseñas no coinciden",
+    "message": "Error: las contraseñas no coinciden",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
@@ -252,15 +252,15 @@
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "NO SUBSCRITO",
+    "message": "NO SUSCRITO",
     "context": "This text label tells the status of the user's subscription to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "SUBSCRITO",
+    "message": "SUSCRITO",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Subscribirse a las notificaciones",
+    "message": "Suscribirse a las notificaciones",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
@@ -284,7 +284,7 @@
     "context": "This is the placeholder text for the new password input."
   },
   "pad3newPassword2Placeholder": {
-    "message": "Nueva contraseña de nuevo",
+    "message": "Nuevamente la contraseña",
     "context": "This is the placeholder text for the new password again input."
   },
   "pushNotificationsUnsupported": {
@@ -312,7 +312,7 @@
     "context": "This is the help page article body describing in detail how to report a person or pet."
   },
   "pageAboutTextAbout": {
-    "message": "Esta aplicación  está proporcionada por la Biblioteca Nacional de Medicina de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
+    "message": "Esta aplicación  es proporcionada por la Biblioteca Nacional de Medicina de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
@@ -332,7 +332,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "A menos que se indique lo contrario, los datos basados en la comunidad contenidas en este sitio Web están disponibles al público y se pueden ser buscados por todos los visitantes del sitio Web. Los datos pueden ser recibidos de diversas fuentes, como se indica en los registros individuales de la notificación directa a través de la NLM :",
+    "message": "A menos que se indique lo contrario, los datos basados en este sitio Web están disponibles al público y se pueden ser buscados por todos los visitantes del sitio Web. Los datos pueden ser recibidos de diversas fuentes, como se indica en los registros individuales de la notificación directa a través de la NLM :",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -568,7 +568,7 @@
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Hembra",
+    "message": "Femenino",
     "context": "Sex = Female"
   },
   "sexOther": {
@@ -580,7 +580,7 @@
     "context": "Status is Missing"
   },
   "statusFound": {
-    "message": "Encontró",
+    "message": "Encontrado",
     "context": "Status is Found"
   }  ,
   "statusDeceased": {
@@ -612,7 +612,7 @@
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Añadir cualquier información adicional acerca de este registro es posible que tenga",
+    "message": "Añadir cualquier información adicional acerca de este registro",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
@@ -676,15 +676,15 @@
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundP": {
-    "message": "persona ha sido declarada la salud desconocida",
+    "message": "persona ha sido declarada en estado de salud desconocido",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
-    "message": "persona ha sido encontrado y está bien",
+    "message": "persona ha sido encontrada y está bien",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-    "message": "persona ha sido encontrado y se lesionó",
+    "message": "persona ha sido encontrada y esta lesionada",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
@@ -712,7 +712,7 @@
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "animal se ha encontrado la salud desconocida",
+    "message": "animal se ha encontrado, estado de salud desconocida",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
@@ -720,7 +720,7 @@
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredA": {
-    "message": "animal se ha encontrado y se lesionó",
+    "message": "animal se ha encontrado y esta lesionado",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedA": {
@@ -764,7 +764,7 @@
     "context": "The label next to the animal sex selection button for female."
   },
   "explainSexOtherA": {
-    "message": "sexo de los animales es otra",
+    "message": "sexo del animale es otro",
     "context": "The label next to the animal sex selection button for other."
   },
   "explainSexUnknownA": {
@@ -788,7 +788,7 @@
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "edad de los animales es desconocido",
+    "message": "edad del animal es desconocida",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
@@ -800,7 +800,7 @@
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Por favor, introduzca el nombre y / o un compañero de número de identificación del animal que está reportando.",
+    "message": "Por favor, introduzca el nombre y / o un número de identificación del animal que está reportando.",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
@@ -812,7 +812,7 @@
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "compinche número de identificación de animales",
+    "message": "número de identificación del animal",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
@@ -820,7 +820,7 @@
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "Si no está seguro del nombre y número de identificación de amigos, por favor seleccione desconocido.",
+    "message": "Si no está seguro del nombre y número de identificación, por favor seleccione desconocido.",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
@@ -828,19 +828,19 @@
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "nombrar y Buddy número de identificación del animal es desconocida",
+    "message": "nombre y número de identificación del animal es desconocida",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "Ninguna cámara detecta por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
+    "message": "Ninguna cámara detectada por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
-    "message": "Su navegador no soporta esta característica.",
+    "message": "Su navegador no soporta esta función.",
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPG, GIF, PNG y sólo de archivos.",
+    "message": "archivos JPG, GIF, PNG unicamente .",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
   },
   "reportChoicePhotoP": {
@@ -900,15 +900,15 @@
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "Usted puede proporcionar opcionalmente cualquier información adicional que usted considere que puede ayudar a otros a identificar o localizar a esta persona.",
+    "message": "Puede proporcionar opcionalmente cualquier información adicional que considere que puede ayudar a otros a identificar o localizar a esta persona.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "Usted puede proporcionar opcionalmente cualquier información adicional que usted considere que puede ayudar a otros a identificar o localizar a este animal.",
+    "message": "Puede proporcionar opcionalmente cualquier información adicional que considere que puede ayudar a otros a identificar o localizar a este animal.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
-    "message": "Informe que se presentó ...",
+    "message": "Informe enviado ...",
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
@@ -916,7 +916,7 @@
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, inicia sesión antes de enviar el informe.",
+    "message": "Si desea que se le notifique si información adicional acerca de esta persona se hace disponible, inicia sesión antes de enviar el informe.",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
@@ -924,19 +924,19 @@
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, optar por presentar el informe ahora.",
+    "message": "Si desea que se le notifique cuando información adicional acerca de esta persona esté disponible, optar por presentar el informe ahora.",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, optar por presentar el informe ahora.",
+    "message": "Si desea que se le notifique cuando información adicional acerca de este animal esté disponible, optar por presentar el informe ahora.",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "Presentar de forma anónima y no se le notificará cuando haya más información acerca de esta persona esté disponible.",
+    "message": "Presente de forma anónima y no se le notificará cuando más información acerca de esta persona esté disponible.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnonA": {
-    "message": "Presentar de forma anónima y no se le notificará cuando haya más información sobre este animal se encuentre disponible.",
+    "message": "Presentar de forma anónima y no se le notificará cuando más información sobre este animal se encuentre disponible.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
